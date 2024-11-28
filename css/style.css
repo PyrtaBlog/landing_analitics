@@ -205,7 +205,7 @@ body {
   left: -280px;
   width: 720px;
   height: 720px;
-  background: url("../../assets/icons/logo-light-gray-2.svg") no-repeat;
+  background: url("../assets/icons/logo-light-gray-2.svg") no-repeat;
   z-index: -1;
 }
 .dashboard__title::before {
@@ -215,7 +215,7 @@ body {
   left: 98%;
   width: 1000px;
   height: 1000px;
-  background: url("../../assets/icons/logo-light-gray.svg") no-repeat;
+  background: url("../assets/icons/logo-light-gray.svg") no-repeat;
   z-index: -1;
 }
 .dashboard__text {
