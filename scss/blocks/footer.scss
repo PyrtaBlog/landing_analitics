@@ -1,5 +1,7 @@
+@use "../variables";
+
 .footer-menu {
-  background: $background-dark-blue;
+  background: variables.$background-dark-blue;
 
   &__wrapper {
     border-top: 1px solid #2a407c;
